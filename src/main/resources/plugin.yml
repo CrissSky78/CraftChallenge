@@ -1,0 +1,11 @@
+name: CraftChallenge
+main: net.crisssky.craftchallenge.CraftChallenge
+version: 1.0.0
+author: CrissSky
+Website: spigotmc.org
+prefix: §6[CraftChallenge]
+commands:
+    challenge:
+        description: Main command of CraftChallenge.
+        aliases: [c, cc, craftchallenge]
+permissions:
